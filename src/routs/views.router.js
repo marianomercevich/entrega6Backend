@@ -1,4 +1,4 @@
-import { Router } from "express";
+/* import { Router } from "express";
 import { MongoDBProductManager } from "../dao/mongo-manager/productmanager.js";
 
 const router = Router();
@@ -9,4 +9,4 @@ router.get("/", async (req, res) => {
    res.render("Products", products);
 });
 
-export default router;
+export default router; */
